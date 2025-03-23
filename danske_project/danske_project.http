@@ -1,0 +1,6 @@
+@danske_project_HostAddress = http://localhost:5255
+
+GET {{danske_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
